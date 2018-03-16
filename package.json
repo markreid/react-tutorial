@@ -14,7 +14,7 @@
     "eject": "react-scripts eject",
     "first-step": "git checkout -f step-0 && echo \"\nYou're at step 0: Getting Started.\"",
     "next-step": "git checkout -f step-0 && echo \"\nYou're at step 0: Getting Started.\"",
-    "prev-step": "git checkout -f step-0 && echo \"\nYou're at step 0: Getting Started.\"",
+    "prev-step": "git checkout -f step-10 && echo \"\nYou're at step 10: Implementing Time Travel.\"",
     "last-step": "git checkout -f master && echo \"\nYou're at the end of the tutorial.\"",
     "clear-step": "git checkout -f master && echo \"\nYou're at the end of the tutorial.\""
   }

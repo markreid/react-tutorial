@@ -13,9 +13,9 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "first-step": "git checkout -f step-0 && echo \"\nYou're at step 0: Getting Started.\"",
-    "next-step": "git checkout -f step-0 && echo \"\nYou're at step 0: Getting Started.\"",
-    "prev-step": "git checkout -f step-0 && echo \"\nYou're at step 0: Getting Started.\"",
     "last-step": "git checkout -f master && echo \"\nYou're at the end of the tutorial.\"",
-    "clear-step": "git checkout -f master && echo \"\nYou're at the end of the tutorial.\""
+    "next-step": "git checkout -f step-7 && echo \"\nYou're at step 7: Storing a History.\"",
+    "prev-step": "git checkout -f step-5 && echo \"\nYou're at step 5: Taking Turns.\"",
+    "clear-step": "git checkout -f step-6 && echo \"\nYou're at step 6: Declaring a Winner.\""
   }
 }

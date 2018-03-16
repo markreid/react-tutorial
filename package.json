@@ -11,6 +11,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "first-step": "git checkout -f step-0 && echo \"\nYou're at step 0: Getting Started.\"",
+    "next-step": "git checkout -f step-0 && echo \"\nYou're at step 0: Getting Started.\"",
+    "prev-step": "git checkout -f step-0 && echo \"\nYou're at step 0: Getting Started.\"",
+    "last-step": "git checkout -f master && echo \"\nYou're at the end of the tutorial.\"",
+    "clear-step": "git checkout -f master && echo \"\nYou're at the end of the tutorial.\""
   }
 }

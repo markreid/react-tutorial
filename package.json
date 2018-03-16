@@ -13,9 +13,9 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "first-step": "git checkout -f step-0 && echo \"\nYou're at step 0: Getting Started.\"",
-    "next-step": "git checkout -f step-0 && echo \"\nYou're at step 0: Getting Started.\"",
-    "prev-step": "git checkout -f step-0 && echo \"\nYou're at step 0: Getting Started.\"",
     "last-step": "git checkout -f master && echo \"\nYou're at the end of the tutorial.\"",
-    "clear-step": "git checkout -f master && echo \"\nYou're at the end of the tutorial.\""
+    "next-step": "git checkout -f step-4 && echo \"\nYou're at step 4: Why Immutability is Important.\"",
+    "prev-step": "git checkout -f step-2 && echo \"\nYou're at step 2: Developer Tools.\"",
+    "clear-step": "git checkout -f step-3 && echo \"\nYou're at step 3: Lifting State Up (half way down).\""
   }
 }
